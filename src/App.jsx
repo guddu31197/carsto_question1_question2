@@ -1,7 +1,7 @@
 
 import './App.css'
 import { FlightBooker } from './FlightBooker'
-import { Question1 } from './question1'
+import { Question_1 } from './Question_1'
 
 function App() {
 
@@ -12,7 +12,7 @@ function App() {
       <div className=" card" >
         <h1>Working</h1>
        <FlightBooker />
-       <Question1 />
+       <Question_1 />
       </div>
      
     </>

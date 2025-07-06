@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Question1 = () => {
+export const Question_1 = () => {
   // Your task is to implement a custom extension method groupBy for arrays in JavaScript. This method should allow users to group elements of an array by a specified key selector function.
 
 // Your implementation should closely resemble the behavior of JavaScript's reduce method for grouping elements. Here are the detailed requirements for your implementation:
